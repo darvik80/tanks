@@ -11,12 +11,12 @@ public class Input extends JComponent {
         map = new boolean[256];
         for (int idx = 0; idx < map.length; idx++) {
             final int KEY_CODE = idx;
-
             // Push button
             getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(
                 KeyStroke.getKeyStroke(idx, 0, false),
                 idx * 2
             );
+
             getActionMap().put(idx * 2, new AbstractAction() {
                 @Override
                 public void actionPerformed(ActionEvent e) {

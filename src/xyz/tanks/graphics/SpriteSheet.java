@@ -1,7 +1,5 @@
 package xyz.tanks.graphics;
 
-import xyz.tanks.utils.Utils;
-
 import java.awt.image.BufferedImage;
 
 public class SpriteSheet {

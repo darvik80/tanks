@@ -4,7 +4,6 @@ import xyz.tanks.utils.ResourceLoader;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.io.IOException;
 
 public class TextureAtlas {
     private BufferedImage image;

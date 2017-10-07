@@ -1,8 +1,7 @@
 package xyz.tanks.utils;
 
 import javax.imageio.ImageIO;
-import java.awt.*;
-import java.awt.image.*;
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 

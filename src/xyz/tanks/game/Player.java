@@ -9,8 +9,6 @@ import xyz.tanks.io.Input;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
-import java.util.HashMap;
-import java.util.Map;
 
 public class Player extends Entity {
     public static final int SPRITE_SCALE = 16;

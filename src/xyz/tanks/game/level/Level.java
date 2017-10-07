@@ -5,8 +5,6 @@ import xyz.tanks.graphics.TextureAtlas;
 import xyz.tanks.utils.Utils;
 
 import java.awt.*;
-import java.util.HashMap;
-import java.util.Map;
 
 public class Level {
     public static final int TILE_SCALE = 8;

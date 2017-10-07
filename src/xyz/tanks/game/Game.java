@@ -2,14 +2,11 @@ package xyz.tanks.game;
 
 import xyz.tanks.display.Display;
 import xyz.tanks.game.level.Level;
-import xyz.tanks.graphics.Sprite;
-import xyz.tanks.graphics.SpriteSheet;
 import xyz.tanks.graphics.TextureAtlas;
 import xyz.tanks.io.Input;
 import xyz.tanks.utils.Time;
 
 import java.awt.*;
-import java.awt.event.KeyEvent;
 
 public class Game implements Runnable {
     public static final int WIDTH = 1024;

@@ -1,6 +1,5 @@
 package xyz.tanks.game;
 
-import xyz.tanks.game.level.Level;
 import xyz.tanks.io.Input;
 
 import java.awt.*;
