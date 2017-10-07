@@ -7,7 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="org.lwjgl.osgi:org.lwjgl.opengl:3.1.2" level="project" />
-    <orderEntry type="library" name="org.lwjgl.osgi:org.lwjgl.glfw:3.1.2" level="project" />
   </component>
 </module>
