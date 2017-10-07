@@ -70,7 +70,7 @@ public class Level {
                     switch (tile.getType()) {
                         case ICE:
                         case BRICK:
-                            return false;
+                            return true;
                     }
                 }
             }
